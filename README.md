@@ -8,7 +8,9 @@ git clone https://github.com/letsencrypt/letsencrypt
 
 cd letsencrypt
 
-Création automatique :
+Automatic creation :
 
 ./letsencrypt-auto --rsa-key-size 4096
+
+Select secure
 
